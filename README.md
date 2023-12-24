@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kalanadias2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1w6PeME5oFVVepfN0hrxzrAEBo31W9rmu/view?usp=sharing](https://drive.google.com/file/d/1w6PeME5oFVVepfN0hrxzrAEBo31W9rmu/view?usp=sharing)
+- 📄 Know about my experiences [https://bit.ly/KalanaCV](https://bit.ly/KalanaCV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
