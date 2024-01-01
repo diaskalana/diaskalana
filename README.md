@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Fullstack Developer from Sri Lanka</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning new technologies related with Web Development & Programming.<br><br>👯 I’m looking to collaborate on React, Java, Python, Machine Learning, Full Stack Development, and Mobile App Development Projects.<br><br>🤝 I’m looking for help with Programming, Web Development, UI/UX design, Graphic design, and Video Editing related projects.<br><br>👨‍💻 All of my projects are available at https://github.com/diaskalana<br><br>📫 How to reach me kalanadias2001@gmail.com<br><br>📄 Know about my experiences https://bit.ly/KalanaCV
+🌱 I’m currently learning new technologies related with Web Development & Programming.<br><br>👯 I’m looking to collaborate on React, Java, Python, Machine Learning, Full Stack Development, and Mobile App Development Projects.<br><br>🤝 I’m looking for help with Programming, Web Development, UI/UX design, Graphic design, and Video Editing related projects.<br><br>📫 How to reach me kalanadias2001@gmail.com<br><br>👨‍💻 All of my projects are available at https://github.com/diaskalana
 
 
 ## 🌐 Socials:
